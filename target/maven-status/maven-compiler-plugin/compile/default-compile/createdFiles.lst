@@ -1,0 +1,4 @@
+nanaev\backend\webrest\MessageRest.class
+nanaev\backend\webrest\init\SpringBootConfig.class
+nanaev\backend\webrest\MessageController.class
+nanaev\backend\webrest\init\EnrtyPoint.class
